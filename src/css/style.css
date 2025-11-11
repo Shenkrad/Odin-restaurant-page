@@ -53,6 +53,7 @@ nav button:hover {
 #content h1 {
     justify-self: center;
     font-size: 3em;
+    text-align: center;
 }
 
 #content p {
@@ -61,7 +62,7 @@ nav button:hover {
 }
 
 .img-hero {
-    width: 50%;
+    width: 70%;
     justify-self: center;
     border-radius: 20px;
 }
